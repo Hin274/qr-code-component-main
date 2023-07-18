@@ -12,7 +12,7 @@ My first time using Frontend Mentor. Completed the QR code component challenge u
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:([https://your-live-site-url.com](https://hin274.github.io/qr-code-component-main/))
 
 ### Built with
 
