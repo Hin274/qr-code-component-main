@@ -17,7 +17,6 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  gap: 1rem;
 }
 
 h1 {
@@ -49,4 +48,8 @@ img {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+footer {
+  margin-top: 1rem;
 }
