@@ -8,7 +8,7 @@ My first time using Frontend Mentor. Completed the QR code component challenge u
 
 ### Screenshot
 
-![QR code screenshot](./images/qr-code-screenshot.png)
+<img src="./images/qr-code-screenshot.png" width="300px">
 
 ### Links
 
