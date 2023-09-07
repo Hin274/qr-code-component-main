@@ -33,12 +33,19 @@ p {
   text-align: center;
   padding: 1rem;
   width: 20rem;
+  box-shadow: 1px 3px 5px rgb(0, 0, 0,0.1);
 }
+
+
 
 img {
   width: 100%;
   object-fit: cover;
   border-radius: 10px;
+}
+
+.textbox-container{
+  padding: 0rem 0.5rem;
 }
 
 .attribution {
@@ -53,3 +60,4 @@ img {
 footer {
   margin-top: 1rem;
 }
+
